@@ -23,6 +23,10 @@ h2 {
     color: blue;
 }
 
+.title {
+    background-image: url('images/pattern.jpeg');
+}
+
 #brushes {
     background-color: mediumspringgreen;
 }
